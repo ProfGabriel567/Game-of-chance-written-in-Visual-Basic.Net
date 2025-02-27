@@ -1,0 +1,55 @@
+G:\UNIMEX\2017\3er CUATRIMESTRE\PROGRAMACIÓN I VISUAL BASIC.NET\PROGRAMAS\Juego de la Fortuna\Juego de la Fortuna\bin\Debug\Juego de la Fortuna.exe.config
+G:\UNIMEX\2017\3er CUATRIMESTRE\PROGRAMACIÓN I VISUAL BASIC.NET\PROGRAMAS\Juego de la Fortuna\Juego de la Fortuna\bin\Debug\Juego de la Fortuna.exe
+G:\UNIMEX\2017\3er CUATRIMESTRE\PROGRAMACIÓN I VISUAL BASIC.NET\PROGRAMAS\Juego de la Fortuna\Juego de la Fortuna\bin\Debug\Juego de la Fortuna.pdb
+G:\UNIMEX\2017\3er CUATRIMESTRE\PROGRAMACIÓN I VISUAL BASIC.NET\PROGRAMAS\Juego de la Fortuna\Juego de la Fortuna\bin\Debug\Juego de la Fortuna.xml
+G:\UNIMEX\2017\3er CUATRIMESTRE\PROGRAMACIÓN I VISUAL BASIC.NET\PROGRAMAS\Juego de la Fortuna\Juego de la Fortuna\obj\Debug\Juego_de_la_Fortuna.frmFortuna.resources
+G:\UNIMEX\2017\3er CUATRIMESTRE\PROGRAMACIÓN I VISUAL BASIC.NET\PROGRAMAS\Juego de la Fortuna\Juego de la Fortuna\obj\Debug\Juego_de_la_Fortuna.Resources.resources
+G:\UNIMEX\2017\3er CUATRIMESTRE\PROGRAMACIÓN I VISUAL BASIC.NET\PROGRAMAS\Juego de la Fortuna\Juego de la Fortuna\obj\Debug\Juego de la Fortuna.vbproj.GenerateResource.Cache
+G:\UNIMEX\2017\3er CUATRIMESTRE\PROGRAMACIÓN I VISUAL BASIC.NET\PROGRAMAS\Juego de la Fortuna\Juego de la Fortuna\obj\Debug\Juego de la Fortuna.exe
+G:\UNIMEX\2017\3er CUATRIMESTRE\PROGRAMACIÓN I VISUAL BASIC.NET\PROGRAMAS\Juego de la Fortuna\Juego de la Fortuna\obj\Debug\Juego de la Fortuna.xml
+G:\UNIMEX\2017\3er CUATRIMESTRE\PROGRAMACIÓN I VISUAL BASIC.NET\PROGRAMAS\Juego de la Fortuna\Juego de la Fortuna\obj\Debug\Juego de la Fortuna.pdb
+E:\UNIMEX\2017\3er CUATRIMESTRE\PROGRAMACIÓN I VISUAL BASIC.NET\PROGRAMAS\Juego de la Fortuna\Juego de la Fortuna\bin\Debug\Juego de la Fortuna.exe.config
+E:\UNIMEX\2017\3er CUATRIMESTRE\PROGRAMACIÓN I VISUAL BASIC.NET\PROGRAMAS\Juego de la Fortuna\Juego de la Fortuna\obj\Debug\Juego de la Fortuna.exe
+E:\UNIMEX\2017\3er CUATRIMESTRE\PROGRAMACIÓN I VISUAL BASIC.NET\PROGRAMAS\Juego de la Fortuna\Juego de la Fortuna\obj\Debug\Juego de la Fortuna.xml
+E:\UNIMEX\2017\3er CUATRIMESTRE\PROGRAMACIÓN I VISUAL BASIC.NET\PROGRAMAS\Juego de la Fortuna\Juego de la Fortuna\obj\Debug\Juego de la Fortuna.pdb
+E:\UNIMEX\2017\3er CUATRIMESTRE\PROGRAMACIÓN I VISUAL BASIC.NET\PROGRAMAS\Juego de la Fortuna\Juego de la Fortuna\bin\Debug\Juego de la Fortuna.exe
+E:\UNIMEX\2017\3er CUATRIMESTRE\PROGRAMACIÓN I VISUAL BASIC.NET\PROGRAMAS\Juego de la Fortuna\Juego de la Fortuna\bin\Debug\Juego de la Fortuna.pdb
+E:\UNIMEX\2017\3er CUATRIMESTRE\PROGRAMACIÓN I VISUAL BASIC.NET\PROGRAMAS\Juego de la Fortuna\Juego de la Fortuna\bin\Debug\Juego de la Fortuna.xml
+E:\UNIMEX\2017\3er CUATRIMESTRE\PROGRAMACIÓN I VISUAL BASIC.NET\PROGRAMAS\Juego de la Fortuna\Juego de la Fortuna\obj\Debug\Juego de la Fortuna.vbprojAssemblyReference.cache
+E:\UNIMEX\2017\3er CUATRIMESTRE\PROGRAMACIÓN I VISUAL BASIC.NET\PROGRAMAS\Juego de la Fortuna\Juego de la Fortuna\obj\Debug\Juego_de_la_Fortuna.frmFortuna.resources
+E:\UNIMEX\2017\3er CUATRIMESTRE\PROGRAMACIÓN I VISUAL BASIC.NET\PROGRAMAS\Juego de la Fortuna\Juego de la Fortuna\obj\Debug\Juego_de_la_Fortuna.Resources.resources
+E:\UNIMEX\2017\3er CUATRIMESTRE\PROGRAMACIÓN I VISUAL BASIC.NET\PROGRAMAS\Juego de la Fortuna\Juego de la Fortuna\obj\Debug\Juego de la Fortuna.vbproj.GenerateResource.cache
+I:\_UNIMEX\2020\1er CUATRIMESTRE\PROGRAMACIÓN I VISUAL BASIC.NET\PROGRAMAS\Juego de la Fortuna\Juego de la Fortuna\bin\Debug\Juego de la Fortuna.exe.config
+I:\_UNIMEX\2020\1er CUATRIMESTRE\PROGRAMACIÓN I VISUAL BASIC.NET\PROGRAMAS\Juego de la Fortuna\Juego de la Fortuna\bin\Debug\Juego de la Fortuna.exe
+I:\_UNIMEX\2020\1er CUATRIMESTRE\PROGRAMACIÓN I VISUAL BASIC.NET\PROGRAMAS\Juego de la Fortuna\Juego de la Fortuna\bin\Debug\Juego de la Fortuna.pdb
+I:\_UNIMEX\2020\1er CUATRIMESTRE\PROGRAMACIÓN I VISUAL BASIC.NET\PROGRAMAS\Juego de la Fortuna\Juego de la Fortuna\bin\Debug\Juego de la Fortuna.xml
+I:\_UNIMEX\2020\1er CUATRIMESTRE\PROGRAMACIÓN I VISUAL BASIC.NET\PROGRAMAS\Juego de la Fortuna\Juego de la Fortuna\obj\Debug\Juego de la Fortuna.vbprojAssemblyReference.cache
+I:\_UNIMEX\2020\1er CUATRIMESTRE\PROGRAMACIÓN I VISUAL BASIC.NET\PROGRAMAS\Juego de la Fortuna\Juego de la Fortuna\obj\Debug\Juego_de_la_Fortuna.frmFortuna.resources
+I:\_UNIMEX\2020\1er CUATRIMESTRE\PROGRAMACIÓN I VISUAL BASIC.NET\PROGRAMAS\Juego de la Fortuna\Juego de la Fortuna\obj\Debug\Juego_de_la_Fortuna.Resources.resources
+I:\_UNIMEX\2020\1er CUATRIMESTRE\PROGRAMACIÓN I VISUAL BASIC.NET\PROGRAMAS\Juego de la Fortuna\Juego de la Fortuna\obj\Debug\Juego de la Fortuna.vbproj.GenerateResource.cache
+I:\_UNIMEX\2020\1er CUATRIMESTRE\PROGRAMACIÓN I VISUAL BASIC.NET\PROGRAMAS\Juego de la Fortuna\Juego de la Fortuna\obj\Debug\Juego de la Fortuna.exe
+I:\_UNIMEX\2020\1er CUATRIMESTRE\PROGRAMACIÓN I VISUAL BASIC.NET\PROGRAMAS\Juego de la Fortuna\Juego de la Fortuna\obj\Debug\Juego de la Fortuna.xml
+I:\_UNIMEX\2020\1er CUATRIMESTRE\PROGRAMACIÓN I VISUAL BASIC.NET\PROGRAMAS\Juego de la Fortuna\Juego de la Fortuna\obj\Debug\Juego de la Fortuna.pdb
+E:\_UNIMEX\2020\1er CUATRIMESTRE\PROGRAMACIÓN I VISUAL BASIC.NET\PROGRAMAS\Juego de la Fortuna\Juego de la Fortuna\bin\Debug\Juego de la Fortuna.exe.config
+E:\_UNIMEX\2020\1er CUATRIMESTRE\PROGRAMACIÓN I VISUAL BASIC.NET\PROGRAMAS\Juego de la Fortuna\Juego de la Fortuna\obj\Debug\Juego de la Fortuna.exe
+E:\_UNIMEX\2020\1er CUATRIMESTRE\PROGRAMACIÓN I VISUAL BASIC.NET\PROGRAMAS\Juego de la Fortuna\Juego de la Fortuna\obj\Debug\Juego de la Fortuna.xml
+E:\_UNIMEX\2020\1er CUATRIMESTRE\PROGRAMACIÓN I VISUAL BASIC.NET\PROGRAMAS\Juego de la Fortuna\Juego de la Fortuna\obj\Debug\Juego de la Fortuna.pdb
+E:\_UNIMEX\2020\1er CUATRIMESTRE\PROGRAMACIÓN I VISUAL BASIC.NET\PROGRAMAS\Juego de la Fortuna\Juego de la Fortuna\bin\Debug\Juego de la Fortuna.exe
+E:\_UNIMEX\2020\1er CUATRIMESTRE\PROGRAMACIÓN I VISUAL BASIC.NET\PROGRAMAS\Juego de la Fortuna\Juego de la Fortuna\bin\Debug\Juego de la Fortuna.pdb
+E:\_UNIMEX\2020\1er CUATRIMESTRE\PROGRAMACIÓN I VISUAL BASIC.NET\PROGRAMAS\Juego de la Fortuna\Juego de la Fortuna\bin\Debug\Juego de la Fortuna.xml
+E:\_UNIMEX\2020\1er CUATRIMESTRE\PROGRAMACIÓN I VISUAL BASIC.NET\PROGRAMAS\Juego de la Fortuna\Juego de la Fortuna\obj\Debug\Juego de la Fortuna.vbprojResolveAssemblyReference.cache
+E:\_UNIMEX\2020\1er CUATRIMESTRE\PROGRAMACIÓN I VISUAL BASIC.NET\PROGRAMAS\Juego de la Fortuna\Juego de la Fortuna\obj\Debug\Juego_de_la_Fortuna.frmFortuna.resources
+E:\_UNIMEX\2020\1er CUATRIMESTRE\PROGRAMACIÓN I VISUAL BASIC.NET\PROGRAMAS\Juego de la Fortuna\Juego de la Fortuna\obj\Debug\Juego_de_la_Fortuna.Resources.resources
+E:\_UNIMEX\2020\1er CUATRIMESTRE\PROGRAMACIÓN I VISUAL BASIC.NET\PROGRAMAS\Juego de la Fortuna\Juego de la Fortuna\obj\Debug\Juego de la Fortuna.vbproj.GenerateResource.Cache
+E:\DOCUMENTOS F\UNIVERSIDAD MEXICANA\RESPALDO USB UNIMEX AL 31 DICIEMBRE 2024\_UNIMEX\2024\3er CUATRIMESTRE\PROGRAMACIÓN I VISUAL BASIC.NET 2024\PROGRAMAS\Juego de la Fortuna\Juego de la Fortuna\bin\Debug\Juego de la Fortuna.exe.config
+E:\DOCUMENTOS F\UNIVERSIDAD MEXICANA\RESPALDO USB UNIMEX AL 31 DICIEMBRE 2024\_UNIMEX\2024\3er CUATRIMESTRE\PROGRAMACIÓN I VISUAL BASIC.NET 2024\PROGRAMAS\Juego de la Fortuna\Juego de la Fortuna\bin\Debug\Juego de la Fortuna.exe
+E:\DOCUMENTOS F\UNIVERSIDAD MEXICANA\RESPALDO USB UNIMEX AL 31 DICIEMBRE 2024\_UNIMEX\2024\3er CUATRIMESTRE\PROGRAMACIÓN I VISUAL BASIC.NET 2024\PROGRAMAS\Juego de la Fortuna\Juego de la Fortuna\bin\Debug\Juego de la Fortuna.pdb
+E:\DOCUMENTOS F\UNIVERSIDAD MEXICANA\RESPALDO USB UNIMEX AL 31 DICIEMBRE 2024\_UNIMEX\2024\3er CUATRIMESTRE\PROGRAMACIÓN I VISUAL BASIC.NET 2024\PROGRAMAS\Juego de la Fortuna\Juego de la Fortuna\bin\Debug\Juego de la Fortuna.xml
+E:\DOCUMENTOS F\UNIVERSIDAD MEXICANA\RESPALDO USB UNIMEX AL 31 DICIEMBRE 2024\_UNIMEX\2024\3er CUATRIMESTRE\PROGRAMACIÓN I VISUAL BASIC.NET 2024\PROGRAMAS\Juego de la Fortuna\Juego de la Fortuna\obj\Debug\Juego de la Fortuna.vbproj.AssemblyReference.cache
+E:\DOCUMENTOS F\UNIVERSIDAD MEXICANA\RESPALDO USB UNIMEX AL 31 DICIEMBRE 2024\_UNIMEX\2024\3er CUATRIMESTRE\PROGRAMACIÓN I VISUAL BASIC.NET 2024\PROGRAMAS\Juego de la Fortuna\Juego de la Fortuna\obj\Debug\Juego_de_la_Fortuna.frmFortuna.resources
+E:\DOCUMENTOS F\UNIVERSIDAD MEXICANA\RESPALDO USB UNIMEX AL 31 DICIEMBRE 2024\_UNIMEX\2024\3er CUATRIMESTRE\PROGRAMACIÓN I VISUAL BASIC.NET 2024\PROGRAMAS\Juego de la Fortuna\Juego de la Fortuna\obj\Debug\Juego_de_la_Fortuna.Resources.resources
+E:\DOCUMENTOS F\UNIVERSIDAD MEXICANA\RESPALDO USB UNIMEX AL 31 DICIEMBRE 2024\_UNIMEX\2024\3er CUATRIMESTRE\PROGRAMACIÓN I VISUAL BASIC.NET 2024\PROGRAMAS\Juego de la Fortuna\Juego de la Fortuna\obj\Debug\Juego de la Fortuna.vbproj.GenerateResource.cache
+E:\DOCUMENTOS F\UNIVERSIDAD MEXICANA\RESPALDO USB UNIMEX AL 31 DICIEMBRE 2024\_UNIMEX\2024\3er CUATRIMESTRE\PROGRAMACIÓN I VISUAL BASIC.NET 2024\PROGRAMAS\Juego de la Fortuna\Juego de la Fortuna\obj\Debug\Juego de la Fortuna.vbproj.CoreCompileInputs.cache
+E:\DOCUMENTOS F\UNIVERSIDAD MEXICANA\RESPALDO USB UNIMEX AL 31 DICIEMBRE 2024\_UNIMEX\2024\3er CUATRIMESTRE\PROGRAMACIÓN I VISUAL BASIC.NET 2024\PROGRAMAS\Juego de la Fortuna\Juego de la Fortuna\obj\Debug\Juego de la Fortuna.exe
+E:\DOCUMENTOS F\UNIVERSIDAD MEXICANA\RESPALDO USB UNIMEX AL 31 DICIEMBRE 2024\_UNIMEX\2024\3er CUATRIMESTRE\PROGRAMACIÓN I VISUAL BASIC.NET 2024\PROGRAMAS\Juego de la Fortuna\Juego de la Fortuna\obj\Debug\Juego de la Fortuna.xml
+E:\DOCUMENTOS F\UNIVERSIDAD MEXICANA\RESPALDO USB UNIMEX AL 31 DICIEMBRE 2024\_UNIMEX\2024\3er CUATRIMESTRE\PROGRAMACIÓN I VISUAL BASIC.NET 2024\PROGRAMAS\Juego de la Fortuna\Juego de la Fortuna\obj\Debug\Juego de la Fortuna.pdb
